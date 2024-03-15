@@ -18,10 +18,10 @@ function Landing() {
           <p>live,work and unwind</p>
         </div>
 
-        <div className="headings text-7xl">
-          <h3>Digital</h3>
-          <h3>Design</h3>
-          <h3>Experience</h3>
+        <div className="mt-10 text-6xl headings">
+          <h3 className="leading-none tracking-tighter">Digital</h3>
+          <h3 className="leading-none tracking-tighter">Design</h3>
+          <h3 className="leading-none tracking-tighter">Experience</h3>
         </div>
       </div>
     </div>
