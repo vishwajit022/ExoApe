@@ -50,7 +50,7 @@ function NavBar() {
         </span>
         <div className="hidden gap-5 links sm:flex">
           {["Home", "About", "Pricing", "Contact"].map((e, i) => (
-            <a key={i} className="text-xs font-light">
+            <a key={i} className="text-xs sm:text-xl  font-light">
               {e}
             </a>
           ))}
