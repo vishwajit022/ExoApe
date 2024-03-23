@@ -18,7 +18,7 @@ function Playreel() {
               data-v-669b4a84=""
             ></path>
           </svg>
-          <h3 className="text-2xl">Work in motion</h3>
+          <h3 className="text-3xl">Work in motion</h3>
 
         </div>
       </div>
